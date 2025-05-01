@@ -46,7 +46,7 @@ ProductListApp/
 
 ### 1. Clone the Repo
 
-```bash
+bash
 git clone https://github.com/your-username/ProductListApp.git
 cd ProductListApp
 
