@@ -47,7 +47,7 @@ ProductListApp/
 ### 1. Clone the Repo
 
 bash
-git clone https://github.com/your-username/ProductListApp.git
+git clone https://github.com/wizard2804/ProductListApp
 cd ProductListApp
 
 ### 2. Install Dependencies
